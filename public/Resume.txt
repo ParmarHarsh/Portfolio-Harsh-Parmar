@@ -1,0 +1,116 @@
+Name: Harsh Parmar
+Email: pmharsh545@gmail.com
+Mobile Number: +1 (647) 832-2785
+LinkedIn: linkedin.com/in/711-parmar-harsh/
+Current Location: Toronto, ON, Canada
+
+EDUCATION:
+
+	York University - Lassonde School of Engineering
+	Degree: Bachelor of Science with Honours Specialization
+	Major: Computer Science
+	Location: Toronto, ON
+	Started: January 2021
+	Graduted: January 2025
+
+WORK EXPERIENCE:
+
+	Employer: Osgoode Professional Development
+	Location: Toronto, ON
+	Title: Database Developer
+	Timeline: July 2024 to Present
+	Description:
+		Coordinated and streamlined database management, improving data entry efficiency by 30% through Excel based workflows and automating manual processes.
+		Collaborated with cross-functional teams to ensure data accuracy, increasing database reliability by 15%.
+		Conducted data audits and clean-up efforts, improving data consistency by 20% and optimizing database performance.
+
+	Employer: York University
+	Location: Toronto, ON
+	Title: Events Assistant - Performance Facilities
+	Timeline: February 2024 to Present
+	Description:
+		Provided exceptional customer service through multiple channels, handling ticket requests and	event inquiries.
+		Processed transactions accurately, greeted patrons, and ensured a smooth experience during performances.
+		Monitored theatre lobbies for safety and assisted in event preparation, contributing to successful events.
+
+	Employer: York University
+	Location: Toronto, ON
+	Title: Records & Data Entry Assistant - Faculty Affairs
+	Timeline: July 2023 to May 2024
+	Description:
+		Developed and maintained SharePoint and WordPress sites, improving data accessibility and increasing faculty portal traffic by 40%.
+		Automated job ad uploads and review processes with Excel VBA and Power Automate, reducing processing time by 25%.
+		Enhanced faculty communication by integrating automated email flows, cutting manual emailing time by 50%.
+
+	Employer: CIBC
+	Location: Toronto, ON
+	Title: Intern - Information Security
+	Timeline: July 2022 to January 2023
+	Description:
+		Redesigned and optimized MS SharePoint for InfoSec Department, improving user experience and achieving a 35% increase in user satisfaction.
+		Collaborated in weekly meetings to implement process improvements, streamlining departmental goals and enhancing resource planning.
+		Improved data accessibility by 25% by revamping MS Teams folder structures and ensuring up-to-date information sharing.
+
+SKILLS:
+
+	Programming Languages: Python, Java, C, R
+	Data Management & Analysis: SQL (MySQL, PostgreSQL), Microsoft Excel
+	Tools: Power BI, Tableau, SharePoint, Microsoft Power Automate, GitHub, WordPress, Microsoft Visual Studio Code
+	Web Development: HTML, CSS, JavaScript, Django, NextJS, Node.js, React.js, RESTful APIs, TypeScript
+	Cloud & DevOps: Azure OpenAI, CI/CD, ETL Pipelines, SaaS (Basic)
+	Project Management & Collaboration: Agile Methodology, SDLC, Jira, SAP (Basic)
+	Soft Skills: Verbal & Written Communication, Multitasking, Problem-Solving, Team Collaboration, Time Management, Analytical Thinking, Customer Service
+
+PROJECTS:
+
+	Name: PortPal: AI-Powered Chatbot for Portfolio Interactions
+	Description: Developed a conversational AI chatbot using Azure OpenAI and GPT to facilitate real-time, context-aware user interactions. System instructions were configured to personalize the chatbot’s responses based on the user’s resume, enhancing engagement and ensuring tailored conversations. The chatbot was seamlessly integrated into the website, significantly improving the user experience and enabling easy navigation of the portfolio. Additionally, dynamic message handling was implemented with state management, allowing for real-time updates and smooth interaction, while automatic scrolling ensured users could follow the conversation effortlessly.
+	Link: https://portfolio-harsh-parmar.vercel.app
+
+	Name: Servo-Controlled Obstacle Detection Radar
+    Description: The Servo-Controlled Obstacle Detection Radar is a real-time obstacle detection system that combines an HC-SR04 ultrasonic sensor mounted on a servo motor to scan a 180° environment. Controlled by an Arduino MKR Vidor 4000, the system measures distances to nearby objects and provides real-time feedback through an LCD display, LED indicator, and buzzer. Additionally, a Processing-based graphical interface visualizes the radar sweep, displaying detected objects in different colors based on their proximity. The project integrates hardware components such as a breadboard, jumper wires, resistors, and an I2C-based LCD, and operates via Arduino and Processing code. The system alerts users when obstacles are within a critical range, making it a cost-effective and scalable solution for obstacle detection applications.
+	Link: https://github.com/ParmarHarsh/Servo-Controlled-Obstacle-Detection-Radar
+
+	Name: Authenticator
+    Description: The Authenticator project is a secure and user-friendly authentication system built using the Django framework, providing seamless login and registration functionality. It incorporates form validation, error handling, and email confirmation to enhance security and user experience. The frontend, developed with HTML, CSS, and JavaScript, features a responsive design, smooth scrolling, a typing effect for the welcome message, and animated form inputs for a modern interface. The backend leverages Django's built-in authentication system, handling user login, logout, session management, and email verification to ensure account security. Upon registration, users receive a confirmation email before gaining access, and authenticated users can securely log out to terminate their sessions. This project prioritizes both functionality and usability, delivering a robust authentication solution.
+	Link: https://github.com/ParmarHarsh/Authenticator
+
+	Name: Image Processing with Edge Detection and Seam Carving
+    Description: The Image Processing with Edge Detection and Seam Carving project provides efficient tools for image analysis, focusing on Canny edge detection and seam carving for content-aware resizing. It includes custom filtering techniques and advanced algorithms to detect edges and resize images dynamically. The MyCanny function implements the Canny edge detection algorithm, incorporating Gaussian blur, Sobel filtering, non-maximum suppression, and thresholding, while MyCannyFull extends it with hysteresis thresholding for enhanced edge linking. The MySeamCarving function resizes images by removing low-energy seams, preserving essential content. The project includes Jupyter notebooks demonstrating these functions, showcasing edge detection, hysteresis thresholding, and seam carving. Acknowledging contributions from PyTorch and Kornia, this project leverages modern libraries to achieve advanced image processing tasks.
+	Link: https://github.com/ParmarHarsh/Image-Processing-with-Edge-Detection-and-Seam-Carving
+
+	Name: Car Sales Prediction
+    Description: The Car Sales Prediction project aims to forecast future car sales using machine learning techniques by analyzing historical sales data. The project utilizes a dataset from Kaggle that includes features such as date, model, manufacturer, price, and sales volume, among others. Various machine learning algorithms, including Linear Regression, Decision Trees, Random Forest, and Support Vector Machines, are used to build predictive models. The models are evaluated based on Mean Absolute Error (MAE), Mean Squared Error (MSE), and R-squared score, with the Random Forest model showing the best performance, achieving the lowest MAE and MSE. This project demonstrates the application of machine learning for sales prediction and highlights key model evaluation techniques. Special thanks are given to Dr. Ruba Alomari for guidance throughout the project.
+	Link: https://github.com/ParmarHarsh/Car-Sales-Prediction
+
+	Name: The Bird Game
+    Description: Your Bird Game project is a remake of the classic "Flappy Bird" using LOVE 2D and Lua. Players control the bird with the "Spacebar" to avoid pipes while the score increases with each successfully passed pipe. The game ends upon a collision with a pipe, and players can exit by pressing "ESC." This project was developed as part of the CS50x course.
+	Link: https://github.com/ParmarHarsh/The-Bird-Game
+	
+	Name: Pong with AI
+    Description: The Pong with AI project on GitHub is a Python-based implementation of the classic Pong game, where one player is controlled by artificial intelligence. The game features paddle and ball mechanics, and the AI opponent's difficulty can be adjusted. The project uses LOVE 2D and Lua, and includes features like sound effects for scoring and paddle hits.
+	Link: https://github.com/ParmarHarsh/Pong-with-AI
+
+CERTIFICATIONS & TRAINING:
+	
+	Name: Career Essentials in Business Analysis (in progress)
+
+	Name: SQL Essential Training
+	Link: https://www.linkedin.com/learning/certificates/1c934e67f8728020c7c994888817d70f4aa923d20a0b7d443da304af62c1146b?u=2174970
+
+	Name: Python Essential Training
+	Link: https://www.linkedin.com/learning/certificates/07629f5ae994a014cc3b8a66124826290ef5d0796777f59c905f2888733f517f?u=2174970
+	
+	Name: Python for Data Science
+	Link: https://www.linkedin.com/learning/certificates/4494d01de528f1f374c903931ceee7ef765a0a1ea23d5d7971bdf67a2c86e70b?u=2174970
+	
+	Name: Career Essentials in Generative AI
+	Link: https://www.linkedin.com/learning/certificates/d204ac5845e49042f8b755c7c6fb358d4444dbe2fdd51bedc4e0dd194941ff1d?u=2174970
+	
+	Name: R for Data Science: Analysis and Visualization
+	Link: https://www.linkedin.com/learning/certificates/aa17a33db65274f5852540a00e832a49b6274ce15c7ffb1b3941de3a6cba8f20?u=2174970
+
+	Name: CS50x: CS50's Introduction to Computer Science
+	Link: https://courses.edx.org/certificates/bc171d5cd6f345c280214c3c49749ea7
+
+To Be Updated...
