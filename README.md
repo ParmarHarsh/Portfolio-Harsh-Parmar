@@ -86,4 +86,3 @@ Navigate to the deployed website or local development server. The site is fully 
 - **API Design**: RESTful endpoint creation for serverless functions
 - **Deployment**: Modern web application deployment on serverless platforms
 - **User Experience**: Interactive elements and smooth animations for engagement</content>
-<parameter name="filePath">/Users/harshparmar/Desktop/Projects/GitHub/Portfolio-Harsh-Parmar/portfolio-harsh-parmar/README.md
